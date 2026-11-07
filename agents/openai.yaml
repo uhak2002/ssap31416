@@ -1,0 +1,6 @@
+interface:
+  display_name: "Toss-inspired Mobile Flow"
+  short_description: "Build connected mobile app and responsive web flows"
+  default_prompt: "Use $toss-flow-design to design or build a connected mobile app or responsive web flow for my service."
+policy:
+  allow_implicit_invocation: true
